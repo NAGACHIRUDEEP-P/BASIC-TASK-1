@@ -1,0 +1,52 @@
+Task List Application
+1. Add Task
+2. Remove Task
+3. List Tasks
+4. Quit
+Select an option: 1
+Enter task name:Basic task 1
+Task added.
+
+Task List Application
+1. Add Task
+2. Remove Task
+3. List Tasks
+4. Quit
+Select an option: 1
+Enter task name: Home work
+Task added.
+
+Task List Application
+1. Add Task
+2. Remove Task
+3. List Tasks
+4. Quit
+Select an option: 3
+1. Basic task 1
+2. Home work
+
+Task List Application
+1. Add Task
+2. Remove Task
+3. List Tasks
+4. Quit
+Select an option: 2
+1. Basic task 1
+2. Home work
+Enter the task number to remove: 1
+Task removed.
+
+Task List Application
+1. Add Task
+2. Remove Task
+3. List Tasks
+4. Quit
+Select an option: 3
+1. Home work
+
+Task List Application
+1. Add Task
+2. Remove Task
+3. List Tasks
+4. Quit
+Select an option: 4
